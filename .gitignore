@@ -1,4 +1,6 @@
 *.sol
 *.pdf
 .idea
+*.out
+*.sh
 TInyJ.iml
